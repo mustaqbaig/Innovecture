@@ -1,5 +1,5 @@
 <html>
 <body>
-<h2>Hello World New!</h2>
+<h2>git code pull automation!</h2>
 </body>
 </html>
